@@ -1,5 +1,5 @@
 # tommyboiTweet
- Tweets at PA Governor Tom Wolf dailt to remind him he's an idiot.
+ Tweets at PA Governor Tom Wolf daily to remind him he's an idiot.
 
  Make sure you create a new file and paste your API keys from apps.twitter.com into variables. Save the file as auth.py
 
